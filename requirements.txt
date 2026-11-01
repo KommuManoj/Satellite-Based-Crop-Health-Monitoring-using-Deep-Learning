@@ -1,0 +1,8 @@
+pandas
+numpy
+rasterio
+geopandas
+scipy
+matplotlib
+flask
+tensorflow # For our MobileNetV2 model
